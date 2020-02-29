@@ -9,5 +9,5 @@ social_icons:
 - title: Email
   icon: fa-envelope-o
   url: "#"
-copyright: "&copy; thepioneerplace.org"
+copyright: "&copy;{{ .Date }} thepioneerplace.org"
 links: []
