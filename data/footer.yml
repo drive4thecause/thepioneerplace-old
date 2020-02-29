@@ -1,16 +1,10 @@
 ---
 social_icons:
-- title: Twitter
-  icon: fa-twitter
-  url: "#"
 - title: Facebook
   icon: fa-facebook
   url: "#"
 - title: Instagram
   icon: fa-instagram
-  url: "#"
-- title: Dribbble
-  icon: fa-dribbble
   url: "#"
 - title: Email
   icon: fa-envelope-o
